@@ -1,0 +1,9 @@
+pages:
+  stage: deploy
+  script:
+    - echo 'Facebook, we are watching you!'
+  artifacts:
+    paths:
+    - public
+  only:
+    - master

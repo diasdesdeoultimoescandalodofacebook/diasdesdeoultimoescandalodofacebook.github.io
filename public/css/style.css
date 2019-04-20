@@ -1,0 +1,71 @@
+html, body, #page {
+}
+
+.center {
+    margin: 0 auto;
+}
+
+#page {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.content {
+    flex-grow: 1;
+    max-width: 800px;
+    font-family: sans-serif;
+    line-height: 1.5;
+    margin: auto;
+    color: #222;
+    padding-top: 50px;
+}
+
+.title {
+    padding: 40px;
+}
+
+h2 {
+    font-size: larger;
+    text-align: center;
+}
+
+h3 {
+    margin-bottom: 0;
+    text-decoration: underline;
+    font-size: large;
+}
+
+#number-of-days {
+    background-color: #333;
+    color: white;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+#facebook {
+    background-color: #3b5998;
+    padding-left: 8px;
+    padding-right: 8px;
+    color: white;
+}
+
+.totals {
+    margin-bottom: 50px;
+}
+
+.scandal {
+    background-color: #3b5998;
+}
+
+footer {
+    text-align: center;
+    padding: 15px 0 10px 0;
+    margin: 0;
+}
+
+footer, footer a {
+    color: white;
+    font-size: 14px;
+    text-decoration: none;
+}

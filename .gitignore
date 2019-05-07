@@ -37,7 +37,6 @@ tags
 [._]*.un~
 
 #Insercoes posteriores
-.idea
 _site/
 .sass-cache/
 .jekyll-cache/

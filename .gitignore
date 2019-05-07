@@ -36,4 +36,10 @@ tags
 # Persistent undo
 [._]*.un~
 
+#Insercoes posteriores
+.idea
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
 # End of https://www.gitignore.io/api/vim,git

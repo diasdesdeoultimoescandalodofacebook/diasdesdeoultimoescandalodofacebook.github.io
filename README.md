@@ -4,7 +4,7 @@ Esta é uma experiência para a qual você pode contribuir! Atualmente, o site �
 
 O resto é muito simples, é apenas uma página HTML.
 
-Código sob licença: CC-BY-SA
+Código sob licença: [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/)
 
 #### Crédito:
 Esta é uma cópia do projeto [dayssincelastfacebookscandal.com](https://framagit.org/pksl/dayssincelastfacebookscandal.com) criado por [pksl](https://framagit.org/pksl).

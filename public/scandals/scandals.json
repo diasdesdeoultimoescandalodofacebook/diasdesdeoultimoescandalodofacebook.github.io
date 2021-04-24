@@ -1,0 +1,876 @@
+[{
+        "date": "21/04/2021",
+        "title": "Facebook Ignored a Vulnerability that Leaked Millions of User Email Addresses",
+        "description": "Facebook Email Search v1.0 exploits a front-end vulnerability in Facebook’s website. It automatically links user IDs to their associated email address, allowing a single hacker to secure about 5 million email addresses per day. Facebook says that it patched a nearly identical vulnerability earlier this year, though the problem clearly remains unfixed.",
+        "sources": [{
+            "name": "ArsTechnica",
+            "url": "https://arstechnica.com/gadgets/2021/04/tool-links-email-addresses-to-facebook-accounts-at-scale/",
+            "title": "Brace yourselves. Facebook has a new mega-leak on its hands",
+            "date": "21/04/2021"
+        }]
+    },
+    {
+        "date": "03/04/2021",
+        "title": "533 million Facebook users' phone numbers and personal data have been leaked online",
+        "description": "A user in a low level hacking forum has published the phone numbers and personal data of hundreds of millions of Facebook users for free online.",
+        "sources": [{
+            "name": "Business Insider",
+            "url": "https://www.businessinsider.fr/us/stolen-data-of-533-million-facebook-users-leaked-online-2021-4",
+            "title": "533 million Facebook users' phone numbers and personal data have been leaked online",
+            "date": "03/04/2021"
+        }]
+    },
+
+    {
+        "date": "17/02/2021",
+        "title": "Australian users are blocked from sharing news links in response to proposed bill",
+        "description": "Facebook decided to block users from sharing and viewing news from local and international outlets as a proposed law would force tech platforms to pay news publishers for content.",
+        "sources": [{
+                "name": "BBC News",
+                "url": "https://www.bbc.com/news/world-australia-56099523",
+                "title": "Facebook blocks Australian users from viewing or sharing news",
+                "date": "18/02/2021"
+            },
+            {
+                "name": "CNN",
+                "url": "https://edition.cnn.com/2021/02/17/media/facebook-australia-news-ban/index.html",
+                "title": "Facebook won't let users in Australia share news",
+                "date": "17/02/2021"
+            },
+            {
+                "name": "The Verge",
+                "url": "https://www.theverge.com/2021/2/17/22287776/facebook-block-news-australia-regulation-media-link-sharing",
+                "title": "Facebook will block Australian users and publishers from sharing news links in response to new bill",
+                "date": "17/02/2021"
+            },
+            {
+                "name": "The Guardian",
+                "url": "https://www.theguardian.com/australia-news/2021/feb/18/facebook-to-restrict-australian-users-sharing-news-content",
+                "title": "Facebook blocks Australian users and publishers from viewing or sharing news",
+                "date": "17/02/2021"
+            },
+            {
+                "name": "Facebook",
+                "url": "https://about.fb.com/news/2021/02/changes-to-sharing-and-viewing-news-on-facebook-in-australia/",
+                "title": "Changes to Sharing and Viewing News on Facebook in Australia",
+                "date": "17/02/2021"
+            }
+        ]
+    },
+    {
+        "date": "19/10/2020",
+        "title": "Facebook throttled progressive news websites",
+        "description": "Mark Zuckerberg signed off on a Facebook algorithm change in 2017 that throttled traffic to left-leaning news sites and cost Mother Jones hundreds of thousands of dollars, The Wall Street Journal reported and Mother Jones senior staffers said on Friday.",
+        "sources": [{
+                "name": "Business Insider",
+                "url": "https://www.businessinsider.com/facebook-mark-zuckerberg-throttled-traffic-to-progressive-news-sites-wsj-2020-10?r=US&IR=T",
+                "title": "Mark Zuckerberg reportedly signed off on a Facebook algorithm change that throttled traffic to progressive news sites — and one site says that quiet change cost it $400,000 to $600,000 a year",
+                "date": "19/10/2020"
+            },
+            {
+                "name": "AlterNet",
+                "url": "https://www.alternet.org/2020/11/facebook-choked-traffic-to-mother-jones-and-other-progressive-sites-while-amplifying-right-wing-misinformation/",
+                "title": "Facebook choked traffic to Mother Jones and other progressive sites while amplifying right-wing misinformation",
+                "date": "03/11/2020"
+            },
+            {
+                "name": "The Wrap",
+                "url": "https://www.thewrap.com/mother-jones-editor-in-chief-says-facebooks-algorithm-change-decimated-sites-traffic-and-favors-right-wing-disinformation/",
+                "title": "Mother Jones Editor-in-Chief Says Facebook’s Algorithm Change Decimated Site’s Traffic and Favors ‘Right-Wing’ Disinformation",
+                "date": "16/10/2020"
+            }
+        ]
+    },
+    {
+        "date": "14/09/2020",
+        "title": "A Whistleblower Says Facebook Ignored Global Political Manipulation",
+        "description": "Facebook ignored or was slow to act on evidence that fake accounts on its platform have been undermining elections and political affairs around the world, according to an explosive memo sent by a recently fired Facebook employee and obtained by BuzzFeed News.",
+        "sources": [{
+            "name": "Buzzfeed",
+            "url": "https://www.buzzfeednews.com/article/craigsilverman/facebook-ignore-political-manipulation-whistleblower-memo",
+            "title": "“I Have Blood on My Hands”: A Whistleblower Says Facebook Ignored Global Political Manipulation",
+            "date": "14/09/2020"
+        }]
+    },
+    {
+        "date": "19/08/2020",
+        "title": "FB censor leftist, anarchist and antifa groups equating them to far-right violent groups",
+        "description": "Facebook announced a sweep to ban some user groups and it equated violent white supremacist militias with antiracist organizing.",
+        "sources": [{
+            "name": "The Intercept",
+            "url": "https://theintercept.com/2020/08/20/facebook-bans-antifascist-pages/",
+            "title": "Facebook’s Ban on Far-Left Pages Is an Extension of Trump Propaganda",
+            "date": "20/08/2020"
+        }]
+    },
+    {
+        "date": "18/08/2020",
+        "title": "Oculus VR headset will require FB account to use, despite having promised it would never be the case in the past",
+        "description": "From October 2020, Facebook will require anyone using an Oculus device for the first time to log in via a Facebook account. It will no longer be possible to sign-up with a separate Oculus ID.",
+        "sources": [{
+                "name": "Occulus",
+                "url": "https://www.oculus.com/blog/a-single-way-to-log-into-oculus-and-unlock-social-features/",
+                "title": "A Single Way to Log Into Oculus and Unlock Social Features",
+                "date": "18/08/2020"
+            },
+            {
+                "name": "Road To VR",
+                "url": "https://www.roadtovr.com/oculus-guarantee-promise-facebook-log-in/",
+                "title": "Here’s Where Facebook “Guaranteed” Users Would Never Need a Facebook Account to Use Oculus Headsets",
+                "date": "20/08/2020"
+            },
+            {
+                "name": "UploadVR",
+                "url": "https://uploadvr.com/oculus-facebook-account-required/",
+                "title": "Facebook Account Required For New Oculus VR Headsets",
+                "date": "18/08/2020"
+            }
+        ]
+    },
+    {
+        "date": "14/08/2020",
+        "title": "Facebook Abandoned Drilling Equipment Beneath the Ocean Floor",
+        "description": "A Facebook subsidiary abandoned drilling equipment, broken piping, and 6,500 gallons of bore gel off the Oregon coast while constructing an undersea cable. The tech giant says that's fine, but environmental experts disagree.",
+        "sources": [{
+            "name": "Vice",
+            "url": "https://www.vice.com/en_us/article/4ay5mj/facebook-abandoned-drilling-equipment-beneath-the-ocean-floor",
+            "title": "Facebook Abandoned Drilling Equipment Beneath the Ocean Floor",
+            "date": "14/08/2020"
+        }]
+    },
+    {
+        "date": "11/06/2020",
+        "title": "Facebook against the workers rights",
+        "description": "On Facebook Workplace, employees see a stream of content similar to a news feed, with automatically generated trending topics based on what people are posting about. One of the new tools debuted by Facebook allows administrators to remove and block certain trending topics among employees. The presentation discussed the “benefits” of “content control.” And it offered one example of a topic employers might find it useful to blacklist: the word “unionize.”",
+        "sources": [{
+            "name": "The Intercept",
+            "url": "https://theintercept.com/2020/06/11/facebook-workplace-unionize/",
+            "title": "Facebook Pitched New Tool Allowing Employers to Suppress Words Like “Unionize” in Workplace Chat Product",
+            "date": "11/06/2020"
+        }]
+    },
+    {
+        "date": "22/05/2020",
+        "title": "Personal data of 12 million Facebook users exposed online",
+        "description": "The leak came after a misconfigured Elasticsearch server exposed Facebook users’ data involved in a previous breach. For the last few years, Facebook has been embroiled in a range of controversies ranging from the social network’s hegemony over the internet to scandals like that of Cambridge Analytica in 2018. Not to forget just a few weeks ago a hacker was found selling personal data of 267 million Facebook users.",
+        "sources": [{
+            "name": "HackRead",
+            "url": "https://www.hackread.com/12-million-facebook-user-data-exposed-online/",
+            "title": "Personal data of 12 million Facebook users exposed online",
+            "date": "22/05/2020"
+        }]
+    },
+    {
+        "date": "21/04/2020",
+        "title": "Help with censorship in Vietnam",
+        "description": "Facebook took down their local servers in Vietnam to comply with government requests to censor of \"anti-state\" posts.",
+        "sources": [{
+                "name": "Reuters",
+                "url": "https://www.reuters.com/article/us-vietnam-facebook-exclusive/exclusive-facebook-agreed-to-censor-posts-after-vietnam-slowed-traffic-sources-idUSKCN2232JX",
+                "title": "Facebook agreed to censor posts after Vietnam slowed traffic",
+                "date": "21/04/2020"
+            },
+            {
+                "name": "Gizmodo",
+                "url": "https://gizmodo.com/facebook-agreed-to-censor-more-anti-state-posts-in-viet-1842993222",
+                "title": "Facebook Agreed to Censor More 'Anti-State' Posts in Vietnam After State Telcos Tanked Its Traffic",
+                "date": "22/04/2020"
+            },
+            {
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com/2020/04/21/facebook-agrees-to-restrict-anti-government-content-in-vietnam-after-months-of-throttling",
+                "title": "Facebook agrees to restrict anti-government content in Vietnam after months of throttling",
+                "date": "22/04/2020"
+            },
+            {
+                "name": "Amnesty International",
+                "url": "https://www.amnesty.org/en/latest/news/2020/04/viet-nam-facebook-cease-complicity-government-censorship",
+                "title": "Facebook must cease complicity with government censorship",
+                "date": "22/04/2020"
+            }
+        ]
+    },
+    {
+        "date": "03/04/2020",
+        "title": "Facebook wanted to use spyware by NSO Group to better spy on its users",
+        "description": "In a lawsuit between Facebook and NSO Group, the CEO of NSO claimed that they were approached by Facebook representatives who expressed interest in NSO Group's spyware tool Pegasus to track users of Facebook's Onavo Protect app. NSO Group's CEO Shalev Hulio claims: \"The Facebook representatives stated that Facebook was concerned that its method for gathering user data through Onavo Protect was less effective on Apple devices than on Android devices\". The request was turned down by the spyware company and the Onavo Protect had to be removed from the Apple App Store due to controversial information leaks.",
+        "sources": [{
+                "name": "The Register",
+                "url": "https://www.theregister.co.uk/2020/04/03/nso_facebook_pegasus_whatsapp/",
+                "title": "NSO Group – Facebook tried to license our spyware to snoop on its own addicts – the same spyware it's suing us over ",
+                "date": "03/04/2020"
+            },
+            {
+                "name": "VICE",
+                "url": "https://www.vice.com/en_us/article/pke9k9/facebook-wanted-nso-spyware-to-monitor-users",
+                "title": "Facebook Wanted NSO Spyware to Monitor Users, NSO CEO Claims",
+                "date": "03/04/2020"
+            },
+            {
+                "name": "appleinsider",
+                "url": "https://appleinsider.com/articles/20/04/03/facebook-tried-to-buy-nso-groups-ios-spyware-to-monitor-iphone-users",
+                "title": "Facebook tried to buy NSO Group's iOS spyware to monitor iPhone users",
+                "date": "03/04/2020"
+            },
+            {
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com/2020/04/03/before-suing-nso-group-facebook-allegedly-sought-their-software-to-better-spy-on-users/",
+                "title": "Before suing NSO Group, Facebook allegedly sought their software to better spy on users",
+                "date": "04/04/2020"
+            },
+            {
+                "name": "Golem (German)",
+                "url": "https://www.golem.de/news/whatsapp-klage-facebook-wollte-funktionen-der-nso-spyware-pegasus-nutzen-2004-147739.html",
+                "title": "Facebook wollte Funktionen der NSO-Spyware Pegasus nutzen",
+                "date": "06/04/2020"
+            }
+        ]
+    },
+    {
+        "date": "19/12/2019",
+        "title": "267 Million Names And Phone Numbers Leaked Online",
+        "description": "If you start receiving more telemarketing calls, you can blame Facebook. Recently, a security researcher named Bob Diachenko found a database of user account info including their name and phone numbers for 267 million Facebook users. It was available in an unprotected format and copied to other hacker forums.",
+        "sources": [{
+                "name": "Forbes",
+                "url": "https://www.forbes.com/sites/johnbbrandon/2019/12/19/267-million-names-and-phone-numbers-leaked-online---and-theyre-all-from-facebook/",
+                "title": "267 Million Names And Phone Numbers Leaked Online — And They’re All From Facebook",
+                "date": "19/12/2019"
+            },
+            {
+                "name": "The Telegraph",
+                "url": "https://www.telegraph.co.uk/news/2019/12/20/facebook-personal-details-267-million-users-exposed-online/",
+                "title": " Facebook: personal details of 267 million users 'exposed online'",
+                "date": "20/12/2019"
+            },
+            {
+                "name": "(French) NextImpact",
+                "url": "https://www.nextinpact.com/brief/des-donnees-de-plus-de-267-millions-d-utilisateurs-facebook-etaient-librement-accessibles-10764.htm",
+                "title": "Des données de plus de 267 millions d'utilisateurs Facebook étaient librement accessibles",
+                "date": "20/12/2019"
+            }
+        ]
+    },
+    {
+        "date": "17/12/2019",
+        "title": "Facebook tracks location despite opt-out",
+        "description": "Even if location services are disabled, Facebook tracks the positions of a user by extracting the location from metadata of uploaded content or by estimating the location of the IP address of the connection.</p> <p>This practive was confirmed by Facebook in a letter to US senators where the company admits it uses several sources to track the location of its users. According to Facebook, this information is used for targetted advertising where ads and sponsored posts are filtered based on the location or region.",
+        "sources": [{
+                "name": "epic.org",
+                "url": "https://epic.org/2019/12/facebook-admits-to-location-tr.html",
+                "title": "Facebook Admits to Location Tracking, Ignoring Privacy Settings",
+                "date": "17/12/2019"
+            },
+            {
+                "name": "US Senate",
+                "url": "https://www.coons.senate.gov/imo/media/doc/11.19.19%20FB%20Letter%20FINAL%20(signed).pdf",
+                "title": "The official letter sent to the US Senate",
+                "date": "19/11/2019"
+            },
+            {
+                "name": "BoingBoing",
+                "url": "https://boingboing.net/2019/12/18/facebook-offers-funny-answer-f.html",
+                "title": "Facebook offers funny answer for why it tracks users’ locations even when they turn tracking services off",
+                "date": "18/12/2019"
+            },
+            {
+                "name": "9to5Mac",
+                "url": "https://9to5mac.com/2019/12/18/facebook-accesses-your-location/",
+                "title": "Facebook accesses your location even when you’ve opted out, confirms company",
+                "date": "18/12/2019"
+            },
+            {
+                "name": "TheHill",
+                "url": "https://thehill.com/policy/technology/474955-facebook-details-location-tracking-after-pressure-from-senators",
+                "title": "Facebook details location tracking after pressure from senators",
+                "date": "17/12/2019"
+            },
+            {
+                "name": "FirstPost",
+                "url": "https://www.firstpost.com/tech/news-analysis/facebook-admits-to-accessing-user-location-data-in-app-even-when-opted-out-7801261.html",
+                "title": "Facebook admits to accessing user location data in app even when opted out",
+                "date": "19/12/2019"
+            },
+            {
+                "name": "Futurezone (in german)",
+                "url": "https://futurezone.at/digital-life/facebook-sammelt-permanent-daten-ueber-aufenthaltsort-seiner-nutzer/400706850",
+                "title": "Facebook sammelt permanent Daten über Aufenthaltsort seiner Nutzer",
+                "date": "18/12/2019"
+            },
+            {
+                "name": "Numerama (in french)",
+                "url": "https://www.numerama.com/tech/594930-facebook-subit-encore-les-consequences-de-son-laxisme-267-millions-dinformations-dans-la-nature.html",
+                "title": "Facebook subit encore les conséquences de son laxisme : 267 millions d’informations dans la nature",
+                "date": "20/12/2019"
+            }
+        ]
+    },
+    {
+        "date": "24/11/2019",
+        "title": "Instagram is deleting accounts of porn stars",
+        "description": "Hundreds of porn stars and sex workers had their Instagram accounts deleted this year, and many say that they're being held to a different standard than mainstream celebrities.",
+        "sources": [{
+                "name": "BBC",
+                "url": "https://www.bbc.com/news/blogs-trending-50222380",
+                "title": "Why is Instagram deleting the accounts of hundreds of porn stars?",
+                "date": "24/11/2019"
+            },
+            {
+                "name": "(French) 20Minutes",
+                "url": "https://www.20minutes.fr/high-tech/2641319-20191031-facebook-censure-3-emojis-trop-sexy-pour-la-plateforme",
+                "title": "Facebook censure trois emojis, trop sexy pour la plateforme"
+            }
+        ]
+    },
+    {
+        "date": "12/11/2019",
+        "title": "Facebook is secretly using your iPhone’s camera as you scroll your feed",
+        "description": "iPhone owners, beware. It appears Facebook might be actively using your camera without your knowledge while you’re scrolling your feed. (...) Maddux adds he found the same issue on five iPhone devices running iOS 13.2.2, but was unable to reproduce it on iOS 12. “I will note that iPhones running iOS 12 don’t show the camera (not to say that it’s not being used),” he said. The findings are consistent with our own attempts. While iPhones running iOS 13.2.2 indeed show the camera actively working in the background, the issue doesn’t appear to affect iOS 13.1.3. We further noticed the issue only occurs if you have given the Facebook app access to your camera. If not, it appears the Facebook app tries to access it, but iOS blocks the attempt. Update November 13, 7:20AM UTC: Facebook has confirmed the issue, calling it a bug (who would’ve guessed, right?). “We recently discovered our iOS app incorrectly launched in landscape. In fixing that last week in v246 we inadvertently introduced a bug where the app partially navigates to the camera screen when a photo is tapped,” Facebook VP of Integrity Guy Rosen tweeted. “We have no evidence of photos/videos uploaded due to this.”",
+        "sources": [{
+            "name": "TheNextWeb",
+            "url": "https://thenextweb.com/apps/2019/11/12/facebook-camera-ios-iphone/",
+            "title": "Facebook is secretly using your iPhone’s camera as you scroll your feed",
+            "date": "12/11/2019"
+        }]
+    },
+    {
+        "date": "09/11/2019",
+        "title": "Facebook gave Tinder and other dating apps special access to user data",
+        "description": "Facebook CEO Mark Zuckerberg flirted with the idea of getting into the online dating business in 2014 — but instead gave Tinder and similar apps access to user data, leaked documents show. The leaked documents were released Wednesday and are a part of an ongoing lawsuit between Facebook and Six4Three, a long-defunct app that scraped Facebook data to find photos of women in bikinis.",
+        "sources": [{
+            "name": "Mashable",
+            "url": "https://mashable.com/article/facebook-tinder-user-data-access/?europe=true",
+            "title": "Facebook gave Tinder and other dating apps special access to user data",
+            "date": "09/11/2019"
+        }]
+    },
+    {
+        "date": "06/11/2019",
+        "title": "7000 pages document leak allowed to shed light on Facebook internal practices",
+        "description": "(...) The piles of leaked documents, which directly reference the company's questionable position on competition, are likely to be extremely helpful to the dozens of entities currently investigating Facebook on antitrust grounds. California, however, is conducting a privacy investigation. (...) (...) Facebook wielded its control over user data to hobble rivals like YouTube, Twitter, and Amazon. The company benefited its friends even as it took aggressive action to block rival companies' access – while framing its actions as necessary to protect user privacy. (...) (...) Facebook executives quietly planned a data-policy \"switcharoo.\" \"Facebook began cutting off access to user data for app developers from 2012 to squash potential rivals while presenting the move to the general public as a boon for user privacy,\" Reuters reported on Wednesday, citing the leaked documents. (...) (...) Facebook considered charging companies to access user data. Documents made public in late 2018 revealed that from 2012 to 2014, Facebook was contemplating forcing companies to pay to access users' data. (It didn't ultimately follow through with the plan. (...) (...) Facebook whitelisted certain companies to allow them more extensive access to user data, even after it locked down its developer platform throughout 2014 and 2015.TechCrunch reported in December that it \"is not clear that there was any user consent for this, nor how Facebook decided which companies should be whitelisted or not. (...) (...) Facebook planned to spy on the locations of Android users. Citing the documents, Computer Weekly reported in February that \"Facebook planned to use its Android app to track the location of its customers and to allow advertisers to send political advertising and invites to dating sites to 'single' people. (...) ",
+        "sources": [{
+                "name": "The Stuff",
+                "url": "https://www.stuff.co.nz/business/world/117234370/facebook-tried-to-keep-explosive-emails-and-documents-secret-but-they-ended-up-online",
+                "title": "Facebook tried to keep explosive emails and documents secret, but they ended up online",
+                "date": "07/11/2019"
+            },
+            {
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com/news/articles/2019-11-08/facebook-staff-lamented-unethical-practices-but-were-rebuffed",
+                "title": "Facebook Staff Lamented ‘Unethical’ Practices But Were Rebuffed",
+                "date": "08/11/2019"
+            },
+            {
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com/news/articles/2019-11-06/leaked-facebook-records-belie-public-push-for-user-privacy",
+                "title": "Leaked Facebook Records Belie Public Push for User Privacy",
+                "date": "06/11/2019"
+            },
+            {
+                "name": "NBCNews",
+                "url": "https://www.nbcnews.com/news/all/leaked-documents-show-facebook-leveraged-user-data-fight-rivals-help-n1076986",
+                "title": "Leaked documents show Facebook leveraged user data to fight rivals and help friends",
+                "date": "06/11/2019"
+            },
+            {
+                "name": "The Verge",
+                "url": "https://www.theverge.com/interface/2019/11/8/20953623/facebook-leaked-court-documents-nbc-paranoia-switcharoo",
+                "title": "How leaked court documents reveal Facebook’s fundamental paranoia",
+                "date": "06/11/2019"
+            },
+            {
+                "name": "Business Insider",
+                "url": "https://www.businessinsider.de/facebook-internal-documents-executive-emails-published-six4three-court-leak-2019-11?r=US&IR=T",
+                "title": "Facebook fought to keep a trove of thousands of explosive internal documents and emails secret. They were just published online in full.",
+                "date": "06/11/2019"
+            },
+            {
+                "name": "ArsTechnica",
+                "url": "https://arstechnica.com/tech-policy/2019/11/facebook-sold-competition-quashing-as-a-privacy-move-leaked-documents-show/",
+                "title": "Massive Facebook document leak gives ammunition to investigators",
+                "date": "08/11/2019"
+            }
+        ]
+    },
+    {
+        "date": "05/11/2019",
+        "title": "Facebook says 100 software developers may have improperly accessed user data",
+        "description": "Facebook discloses that as many as 100 software developers may have improperly accessed user data, including the names and profile pictures of people in specific groups on the social network.",
+        "sources": [{
+                "name": "CNBC",
+                "url": "https://www.cnbc.com/2019/11/05/facebook-says-100-developers-may-have-improperly-accessed-user-data.html",
+                "title": "Facebook says 100 software developers may have improperly accessed user data",
+                "date": "05/11/2019"
+            },
+            {
+                "name": "The Verge",
+                "url": "https://www.theverge.com/2019/11/5/20950541/facebook-groups-api-developer-improper-user-data-access-disclosure",
+                "title": "Facebook says 100 developers might have improperly accessed Groups member data",
+                "date": "05/11/2019"
+            }
+        ]
+    },
+    {
+        "date": "01/10/2019",
+        "title": "In two hours of leaked audio, Mark Zuckerberg rallies Facebook employees against critics, competitors, and the US government.",
+        "description": "Highlights from two hours of leaked audio from recent Q&A sessions with Facebook’s CEO. [...] The Verge obtained two hours of audio from the meetings, which include extended question-and-answer sessions between Zuckerberg and his employees. In language that is often more candid than he typically uses in his public comments, Zuckerberg seeks to rally the company against Facebook’s competitors, critics, and the US government.",
+        "sources": [{
+                "name": "The Verge",
+                "url": "https://www.theverge.com/2019/10/1/20892354/mark-zuckerberg-full-transcript-leaked-facebook-meetings",
+                "title": "Read the full transcript of Mark Zuckerberg’s leaked internal Facebook meetings ",
+                "date": "01/10/2019"
+            },
+            {
+                "name": "Le Monde (in French)",
+                "url": "https://www.lemonde.fr/pixels/article/2019/10/01/facebook-une-discussion-interne-entre-mark-zuckerberg-et-ses-employes-fuite-dans-la-presse_6013816_4408996.html?utm_medium=Social&utm_source=Twitter#Echobox=1569948642",
+                "title": "Facebook : une discussion interne entre Mark Zuckerberg et ses employés fuite dans la presse",
+                "date": "01/10/2019"
+            }
+        ]
+    },
+    {
+        "date": "20/09/2019",
+        "title": "Suspension of ‘Tens of Thousands’ of privacy leaking Facebook apps",
+        "description": "After the Cambridge Analytica incident, Facebook started an internal investigation in March 2018 which resulted in the suspension of “tens of thousands” of apps that were associated with about 400 developers.",
+        "sources": [{
+                "name": "Facebook's newsroom",
+                "url": "https://newsroom.fb.com/news/2019/09/an-update-on-our-app-developer-investigation/",
+                "title": "Facebook Newsroom: An Update on Our App Developer Investigation",
+                "date": "20/09/2019"
+            },
+            {
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com/2019/09/20/technology/facebook-data-privacy-suspension.html",
+                "title": "The New York Times: Facebook’s Suspension of ‘Tens of Thousands’ of Apps Reveals Wider Privacy Issues",
+                "date": "20/09/2019"
+            },
+            {
+                "name": "Engadget",
+                "url": "https://www.engadget.com/2018/08/22/facebook-personality-app-data-leak/",
+                "title": "Engadget: Facebook audit leads to the suspension of 400 apps",
+                "date": "22/08/2018"
+            }
+        ]
+    },
+    {
+        "date": "04/09/2019",
+        "title": "A huge database of Facebook users’ phone numbers found online",
+        "description": "Hundreds of millions of phone numbers linked to Facebook accounts have been found online. The exposed server contained more than 419 million records over several databases on users across geographies, [...] But because the server wasn’t protected with a password, anyone could find and access the database. Each record contained a user’s unique Facebook ID and the phone number listed on the account. ",
+        "sources": [{
+            "name": "Techcrunch",
+            "url": "https://techcrunch.com/2019/09/04/facebook-phone-numbers-exposed/",
+            "title": "A huge database of Facebook users' phone numbers found online",
+            "date": "04/09/2019"
+        }]
+    },
+    {
+        "date": "13/08/2019",
+        "title": "Facebook Paid Contractors to Transcribe Users’ Audio Chats",
+        "description": "Facebook Inc. has been paying hundreds of outside contractors to transcribe clips of audio from users of its services, according to people with knowledge of the work.",
+        "sources": [{
+                "name": "Bloomberg",
+                "url": "https://www.bloomberg.com/news/articles/2019-08-13/facebook-paid-hundreds-of-contractors-to-transcribe-users-audio",
+                "title": "Facebook Paid Contractors to Transcribe Users’ Audio Chats",
+                "date": "13/08/2019"
+            },
+            {
+                "name": "Wired",
+                "url": "https://www.wired.com/story/facebook-voice-transcripts-capital-one-security-news/",
+                "title": "Security News This Week: Facebook's Voice Transcripts Were More Invasive Than Amazon's",
+                "date": "17/08/2019"
+            }
+        ]
+    },
+    {
+        "date": "07/08/2019",
+        "title": "Instagram leaks data, including location, to ad partner",
+        "description": "Hyp3r used four key tools to scrape data from Instagram users. First, it utilized an Instagram security hole that allowed it to “zero in on specific locations” and collect all the posts made from those locations. Second, Hyp3r “systematically saved users’ public Instagram stories,” again utilizing that location data. Third, it “scraped public user profiles on a broad basis, collecting information like user bios and followers, which it then combined with the other location information.” Lastly, Hyp3r used image recognition software on user posts to analyze that the images included. The result was a database detailing a plethora of information about Instagram users.",
+        "sources": [{
+                "name": "9to5mac",
+                "url": "https://9to5mac.com/2019/08/07/instagram-ad-partner-hyp3r/",
+                "title": "Instagram bans ad partner for secretly tracking user locations, saving Stories, more",
+                "date": "07/08/2019"
+            },
+            {
+                "name": "Forbes",
+                "url": "https://www.forbes.com/sites/zakdoffman/2019/08/07/instagram-bans-preferred-partner-for-secretly-storing-locations-and-data-for-millions-of-users-report/#523be5f038a8",
+                "title": " Instagram Partner Has Been Secretly Tracking Locations Of Millions Of Users: Report",
+                "date": "07/08/2019"
+            },
+            {
+                "name": "Business Insider",
+                "url": "http://www.businessinsider.fr/us/startup-hyp3r-saving-instagram-users-stories-tracking-locations-2019-8",
+                "title": "Instagram’s lax privacy practices let a trusted partner track millions of users' physical locations, secretly save their Stories, and openly flout its rules",
+                "date": "07/08/2019"
+            }
+        ]
+    },
+    {
+        "date": "12/07/2019",
+        "title": "FTC Reportedly Hits Facebook With Record $5 Billion Settlement",
+        "description": "After months of negotiations, the Federal Trade Commission fined Facebook a record-setting $5 billion on Friday for privacy violations, according to multiple reports. If approved by the Justice Department's civil division, it will also be the first substantive punishment for Facebook in the US, where the tech industry has gone largely unregulated. But Washington has taken a harsher stance toward Silicon Valley lately, and Friday’s announcement marks its most aggressive action yet to curb its privacy overreaches.",
+        "sources": [{
+            "name": "WIRED",
+            "url": "https://www.wired.com/story/facebook-ftc-fine-five-billion/",
+            "title": "FTC Reportedly Hits Facebook With Record $5 Billion Settlement",
+            "date": "12/07/2019"
+        }]
+    },
+    {
+        "date": "21/05/2019",
+        "title": "Facebook caught lying to the Dutch Parliament",
+        "description": "On May 15 2019, Facebook’s Head of Public Policy for the Netherlands spoke at a round table in the House of Representatives and stated: “You can now only advertise political messages in a country, if you’re a resident of that country.” Dutch Digital Rights NGO Bits of Freedom quickly proved that this was completely wrong. It was no problem at all to boost a political posting to a German target group from a Dutch Facebook account and pay for it from a Dutch bank account, and vice versa.",
+        "sources": [{
+                "name": "Bits of Freedom",
+                "url": "https://www.bitsoffreedom.nl/2019/05/21/facebook-lies-to-dutch-parliament-about-election-manipulation/",
+                "title": "Facebook lies to Dutch Parliament about election manipulation",
+                "date": "21/05/2019"
+            },
+            {
+                "name": "Niewsuur",
+                "url": "https://nos.nl/nieuwsuur/artikel/2285561-bits-of-freedom-facebook-gaat-de-fout-in-met-politieke-advertenties.html",
+                "title": "Bits of Freedom: 'Facebook gaat de fout in met politieke advertenties'",
+                "date": "21/05/2019"
+            },
+            {
+                "name": "Bits of Freedom",
+                "url": "https://www.bitsoffreedom.nl/2019/05/21/kamerleden-boos-na-facebook-onthulling-bits-of-freedom/",
+                "title": "Kamerleden boos na Facebook-onthulling Bits of Freedom",
+                "date": "21/05/2019"
+            },
+            {
+                "name": "Digitalcourage",
+                "url": "https://digitalcourage.de/blog/2019/facebook-politische-werbung",
+                "title": "Facebook widerlegt: Wahlmanipulation aus dem Ausland ist möglich",
+                "date": "22/05/2019"
+            },
+            {
+                "name": "Boing Boing",
+                "url": "https://boingboing.net/2019/05/21/zucked-again.html",
+                "title": "Facebook's Dutch Head of Policy lied to the Dutch parliament about election interference",
+                "date": "21/05/2019"
+            },
+            {
+                "name": "European Digital Rights",
+                "url": "https://edri.org/facebook-lies-to-dutch-parliament-about-election-manipulation/",
+                "title": "Facebook lies to Dutch Parliament about election manipulation",
+                "date": "22/05/2019"
+            },
+            {
+                "name": "Radio Gütersloh",
+                "url": "https://www.radioguetersloh.de/nachrichten/kreis-guetersloh/detailansicht/wahlmanipulation-im-internet-moeglich.html",
+                "title": "Wahlmanipulation im Internet möglich ",
+                "date": "22/05/2019"
+            },
+            {
+                "name": "Neue Westfälische",
+                "url": "https://www.nw.de/blogs/games_und_netzwelt/22462496_Facebook-sperrt-Fake-Seiten-mit-AfD-Werbung-vor-Europawahl.html",
+                "title": "Facebook sperrt Fake-Seiten mit AfD-Werbung vor Europawahl",
+                "date": "22/05/2019"
+            }
+        ]
+    },
+    {
+        "date": "20/05/2019",
+        "title": "Thanks to Facebook, Your Cellphone Company Is Watching You More Closely Than Ever",
+        "description": "According to a confidential document the Intercept had access to, Facebook gives away information about your phone that is used by your mobile phone carrier. Facebook’s cellphone partnerships are particularly worrisome because of the extensive surveillance powers already enjoyed by carriers like AT&T and T-Mobile: Just as your internet service provider is capable of watching the data that bounces between your home and the wider world, telecommunications companies have a privileged vantage point from which they can glean a great deal of information about how, when, and where you’re using your phone. AT&T, for example, states plainly in its privacy policy that it collects and stores information “about the websites you visit and the mobile applications you use on our networks.” Paired with carriers’ calling and texting oversight, that accounts for just about everything you’d do on your smartphone.",
+        "sources": [{
+            "name": "The Intercept",
+            "url": "https://theintercept.com/2019/05/20/facebook-data-phone-carriers-ads-credit-score/",
+            "title": "Thanks to Facebook, Your Cellphone Company Is Watching You More Closely Than Ever ",
+            "date": "20/05/2019"
+        }]
+    },
+    {
+        "date": "13/05/2019",
+        "title": "WhatsApp vulnerability allows to install spyware",
+        "description": "A vulnerability found in Facebook's owned messaging service WhatsApp, allowed a spyware to be installed allegedly linked to the NSO group. Note: the funny part here is that nothing in the release notes of the update mentionned the vulnerability when the dev team was aware of it.",
+        "sources": [{
+                "name": "Techcrunch",
+                "url": "https://techcrunch.com/2019/05/13/whatsapp-exploit-let-attackers-install-government-grade-spyware-on-phones/",
+                "title": "WhatsApp exploit let attackers install government-grade spyware on phones ",
+                "date": "13/05/2019"
+            },
+            {
+                "name": "The Guardian",
+                "url": "https://www.theguardian.com/technology/2019/may/13/whatsapp-urges-users-to-upgrade-after-discovering-spyware-vulnerability",
+                "title": "WhatsApp urges users to update app after discovering spyware vulnerability",
+                "date": "13/05/2019"
+            },
+            {
+                "name": "ArsTechnica",
+                "url": "https://arstechnica.com/information-technology/2019/05/whatsapp-vulnerability-exploited-to-infect-phones-with-israeli-spyware/",
+                "title": "WhatsApp vulnerability exploited to infect phones with Israeli spyware ",
+                "date": "14/05/2019"
+            },
+            {
+                "name": "EFF",
+                "url": "https://www.eff.org/deeplinks/2019/05/what-you-need-know-about-latest-whatsapp-vulnerability",
+                "title": "What You Need to Know About the Latest WhatsApp Vulnerability",
+                "date": "16/05/2019"
+            }
+        ]
+    },
+    {
+        "date": "01/05/2019",
+        "title": "Facebook wants to scan encrypted person-to-person WhatsApp messages for content Facebook or repressive governments dislike",
+        "description": "Facebook plans to install an on-phone AI content moderation algorithm that would flag a post and prevent it from being sent if a user attempts to send a rules-violating post via encrypted WhatsApp message.",
+        "sources": [{
+                "name": "Forbes",
+                "url": "https://www.forbes.com/sites/kalevleetaru/2019/05/05/facebooks-edge-ai-content-scanning-brings-nsa-style-surveillance-and-censorship-to-the-planet/",
+                "title": "Facebook's Edge AI Content Scanning Brings NSA-Style Surveillance And Censorship To The Planet ",
+                "date": "05/05/2019"
+            },
+            {
+                "name": "Facebook for developers",
+                "url": "https://developers.facebook.com/videos/2019/applying-ai-to-keep-the-platform-safe/",
+                "title": "Applying AI to Keep the Platform Safe ",
+                "date": "01/05/2019"
+            }
+        ]
+    },
+    {
+        "date": "25/04/2019",
+        "title": "Facebook is looking down the barrel of a $2.2 billion fine for storing millions of passwords insecurely",
+        "description": " Facebook is facing a multi-billion dollar fine for accidentally storing millions of people's passwords in plain text. Ireland's Data Protection Commission (DPC), which is the default privacy regulator for Facebook in Europe, said on Thursday it had launched a \"statutory inquiry\" into the social network after it admitted to the error. ",
+        "sources": [{
+            "name": "Business Insider",
+            "url": "https://www.businessinsider.com/facebook-faces-2-2-billion-fine-email-contacts-harvesting-ireland-data-protection-2019-4?r=US&IR=T",
+            "title": "Facebook is looking down the barrel of a $2.2 billion fine for storing millions of passwords insecurely",
+            "date": "25/04/2019"
+        }]
+    },
+    {
+        "date": "25/04/2019",
+        "title": "Facebook is punishing Black people for talking about racism",
+        "description": "Black people who openly discuss experiences of racism or call out white privilege often have their Facebook accounts suspended, according to a new report by USA Today.",
+        "sources": [{
+                "name": "The Daily Dot",
+                "url": "https://www.dailydot.com/irl/facebook-suspends-black-people/",
+                "title": "Report: Facebook is punishing Black people for talking about racism",
+                "date": "25/04/2019"
+            },
+            {
+                "name": "Usa Today",
+                "url": "https://eu.usatoday.com/story/news/2019/04/24/facebook-while-black-zucked-users-say-they-get-blocked-racism-discussion/2859593002/",
+                "title": "Facebook while black: Users call it getting 'Zucked,' say talking about racism is censored as hate speech ",
+                "date": "30/04/2019"
+            }
+        ]
+    },
+    {
+        "date": "18/04/2019",
+        "title": "Facebook waited until the Mueller report dropped to tell us millions of Instagram passwords were exposed",
+        "description": "Given the terrible run of form it’s been on over the last year, it probably shouldn’t be that surprising that Facebook waited until the highly anticipated report on Russian interference in the 2016 US presidential election to deliver some bad news.",
+        "sources": [{
+            "name": "QZ",
+            "url": "https://qz.com/1599218/millions-of-instagram-users-had-their-passwords-exposed/",
+            "title": "Facebook waited until the Mueller report dropped to tell us millions of Instagram passwords were exposed",
+            "date": "18/04/2019"
+        }]
+    },
+    {
+        "date": "18/04/2019",
+        "title": "Facebook Stored Millions of Instagram Users' Passwords in Plaintext",
+        "description": "Facebook late last month revealed that the social media company mistakenly stored passwords for \"hundreds of millions\" of Facebook users in plaintext, including \"tens of thousands\" passwords of its Instagram users as well.",
+        "sources": [{
+            "name": "The Hacker News",
+            "url": "https://thehackernews.com/2019/04/instagram-password-plaintext.html",
+            "title": "Facebook Stored Millions of Instagram Users' Passwords in Plaintext",
+            "date": "18/04/2019"
+        }]
+    },
+    {
+        "date": "18/04/2019",
+        "title": "\"Ooops, I accidentally shared your contact list\"",
+        "description": "Facebook says it 'unintentionally uploaded' 1.5 million people's email contacts without their consent",
+        "sources": [{
+            "name": "Business Insider",
+            "url": "https://www.businessinsider.fr/us/facebook-uploaded-1-5-million-users-email-contacts-without-permission-2019-4",
+            "title": "Facebook harvested the email contacts of 1.5 million users without their knowledge or consent when they opened their accounts",
+            "date": "18/04/2019"
+        }]
+    },
+    {
+        "date": "16/04/2019",
+        "title": "15 Months of Fresh Hell Inside Facebook",
+        "description": "Scandals. Backstabbing. Resignations. Record profits. Time Bombs. In early 2018, Mark Zuckerberg set out to fix Facebook. Here's how that turned out.",
+        "sources": [{
+            "name": "Wired",
+            "url": "https://www.wired.com/story/facebook-mark-zuckerberg-15-months-of-fresh-hell/",
+            "title": "15 Months of Fresh Hell Inside Facebook ",
+            "date": "16/04/2019"
+        }]
+    },
+    {
+        "date": "11/04/2019",
+        "title": "Mark Zuckerberg leveraged Facebook user data to fight rivals and help friends, leaked documents show",
+        "description": "Facebook’s leaders seriously discussed selling access to user data — and privacy was an afterthought.",
+        "sources": [{
+            "name": "NBCNews",
+            "url": "https://www.nbcnews.com/tech/social-media/mark-zuckerberg-leveraged-facebook-user-data-fight-rivals-help-friends-n994706",
+            "title": "Mark Zuckerberg leveraged Facebook user data to fight rivals and help friends, leaked documents show ",
+            "date": "11/04/2019"
+        }]
+    },
+    {
+        "date": "10/04/2019",
+        "title": "[FR] Condamné pour clauses abusives en France, Facebook modifie ses conditions d’utilisation",
+        "description": "Le tribunal de grande instance de Paris condamne Facebook à verser 30 000 euros à l’UFC-Que Choisir, en raison de 430 clauses d’utilisation jugées illicites. Le réseau social modifie ses CGU, à la demande de la DGCCRF et de la Commission européenne.",
+        "sources": [{
+            "name": "L'Observateur",
+            "url": "https://www.nouvelobs.com/societe/20190410.OBS11374/condamne-pour-clauses-abusives-en-france-facebook-modifie-ses-conditions-d-utilisation.html",
+            "title": "Condamné pour clauses abusives en France, Facebook modifie ses conditions d’utilisation",
+            "date": "10/04/2019"
+        }]
+    },
+    {
+        "date": "3/04/2019",
+        "title": "Hundreds of millions of Facebook records exposed on public servers – report ",
+        "description": "Material discovered on Amazon cloud servers in latest example of Facebook letting third parties extract user data",
+        "sources": [{
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/technology/2019/apr/03/facebook-data-public-servers-amazon",
+            "title": "Hundreds of millions of Facebook records exposed on public servers – report ",
+            "date": "3/04/2019"
+        }]
+    },
+    {
+        "date": "11/03/2019",
+        "title": "Facebook confirms it took down an anti-Facebook ads",
+        "description": "Facebook confirms it took down Elizabeth Warren's ads about Facebook, but is in the process of restoring them. FB spox: \"We removed the ads because they violated our policies against use of our corporate logo. In the interest of allowing robust debate, we are restoring the ads.\"",
+        "sources": [{
+            "name": "Twitter",
+            "url": "https://nitter.net/RMac18/status/1105241915396517888",
+            "title": "Facebook confirms it took down an anti-Facebook add",
+            "date": "11/03/2019"
+        }]
+    },
+    {
+        "date": "7/03/2019",
+        "title": "Facebook Messenger bug revealed who you had conversations with",
+        "description": "Imperva, a cybersecurity company, on Thursday detailed a flaw with Facebook Messenger that allowed potential attackers to learn who you were talking with on the chatting service. The security bug didn't show the content of the messages, but just knowing who you were in touch with has the potential to harm your privacy, said Ron Masas, the security researcher who discovered the vulnerability. ",
+        "sources": [{
+            "name": "CNET",
+            "url": "https://www.cnet.com/news/facebook-messenger-bug-revealed-who-you-had-conversations-with/",
+            "title": "Facebook Messenger bug revealed who you had conversations with",
+            "date": "7/03/2019"
+        }]
+    },
+    {
+        "date": "22/02/2019",
+        "title": "'Outrageous abuse of privacy': New York orders inquiry into Facebook data use",
+        "description": "Order follows report that Facebook may access highly personal information including weight, blood pressure and ovulation status",
+        "sources": [{
+            "name": "The New York Times ",
+            "url": "https://www.theguardian.com/technology/2019/feb/22/new-york-facebook-privacy-data-app-wall-street-journal-report",
+            "title": "'Outrageous abuse of privacy': New York orders inquiry into Facebook data use",
+            "date": "22/02/2019"
+        }]
+    },
+    {
+        "date": "24/01/2019",
+        "title": "Facebook pays teens to install VPN that spies on them",
+        "description": "Desperate for data on its competitors, Facebook has been secretly paying people to install a “Facebook Research” VPN that lets the company suck in all of a user’s phone and web activity, similar to Facebook’s Onavo Protect app that Apple banned in June and that was removed in August. ",
+        "sources": [{
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com/2019/01/30/apple-bans-facebook-vpn/",
+                "title": "Apple bans Facebook’s Research app that paid users for data",
+                "date": "30/01/2019"
+            },
+            {
+                "name": "TechCrunch",
+                "url": "https://techcrunch.com/2019/01/29/facebook-project-atlas/",
+                "title": "Facebook pays teens to install VPN that spies on them",
+                "date": "29/01/2019"
+            }
+        ]
+    },
+    {
+        "date": "24/01/2019",
+        "title": "Facebook knowingly duped game-playing kids and their parents out of money",
+        "description": "Facebook orchestrated a multiyear effort that duped children and their parents out of money, in some cases hundreds or even thousands of dollars, and then often refused to give the money back [...]",
+        "sources": [{
+                "name": "Reveal News",
+                "url": "https://www.revealnews.org/article/facebook-knowingly-duped-game-playing-kids-and-their-parents-out-of-money/",
+                "title": "Facebook knowingly duped game-playing kids and their parents out of money",
+                "date": "24/01/2019"
+            },
+            {
+                "name": "The Independent",
+                "url": "https://www.independent.co.uk/life-style/gadgets-and-tech/news/facebook-games-angry-birds-revenue-scam-friendly-fraud-a8745696.html",
+                "title": "Facebook tricked children into spending money on in-app games, court documents reveal ",
+                "date": "26/01/2019"
+            }
+        ]
+    },
+    {
+        "date": "18/12/2018",
+        "title": "Facebook allowed Netflix, Microsoft, Spotify and Amazon access to private messages and personal information of users",
+        "description": "The 18 December 2018, the New York Times reveals that Facebook had given extended access to user data, on a much wider scope that it has previously disclosed.",
+        "sources": [{
+                "name": "The New York Times",
+                "url": "https://www.nytimes.com/2018/12/18/technology/facebook-privacy.html",
+                "title": "Facebook gives access to private messages to 3rd party partners ",
+                "date": "18/12/2018"
+            },
+            {
+                "name": "Libération",
+                "url": "https://www.liberation.fr/planete/2018/12/19/partage-de-donnees-facebook-et-ses-partenaires-particuliers_1698784",
+                "title": "Partage des données : Facebook et ses partenaires particuliers",
+                "date": "19/12/2018"
+            },
+            {
+                "name": "Usbek & Rica",
+                "url": "https://usbeketrica.com/article/facebook-donnees-personnelles-amazon-netflix",
+                "title": "Pour les partenaires de Facebook, vos données personnelles, c'est open bar",
+                "date": "19/12/2018"
+            },
+            {
+                "name": "BFMTV",
+                "url": "https://www.bfmtv.com/tech/facebook-a-laisse-netflix-et-spotify-acceder-a-tous-vos-messages-prives-1591572.html",
+                "title": "Facebook a laissé Netflix et Spotify accéder à tous vos messages privés",
+                "date": "19/12/2018"
+            }
+        ]
+    },
+    {
+        "date": "14/12/2018",
+        "title": "Facebook Photo API bug exposes 6.8 millions of users' photos",
+        "description": "On the 14 December 2018, Facebook announces throught a blog post that they discovered a bug in their Photo API that allowed a broader access than usual for 12 days.",
+        "sources": [{
+                "name": "Facebook original blog post",
+                "url": "https://developers.facebook.com/blog/post/2018/12/14/notifying-our-developer-ecosystem-about-a-photo-api-bug/",
+                "title": "Notifying our Developer Ecosystem about a Photo API Bug ",
+                "date": "14/12/2018"
+            },
+            {
+                "name": "Le Monde",
+                "url": "https://www.lemonde.fr/pixels/article/2018/12/17/facebook-une-faille-de-securite-a-pu-exposer-les-photos-de-6-8-millions-d-utilisateurs_5398948_4408996.html",
+                "title": "Facebook : une faille de sécurité a pu exposer les photos de 6,8 millions d’utilisateurs",
+                "date": "17/12/2018"
+            }
+        ]
+    },
+    {
+        "date": "1/11/2018",
+        "title": "Facebook Knows How to Track You Using the Dust on Your Camera Lens",
+        "description": "In 2014, Facebook filed a patent application for a technique that employs smartphone data to figure out if two people might know each other. The author, an engineering manager at Facebook named Ben Chen, wrote that it was not merely possible to detect that two smartphones were in the same place at the same time, but that by comparing the accelerometer and gyroscope readings of each phone, the data could identify when people were facing each other or walking together. That way, Facebook could suggest you friend the person you were talking to at a bar last night, and not all the other people there that you chose not to talk to.",
+        "sources": [{
+            "name": "Gizmodo",
+            "url": "https://gizmodo.com/facebook-knows-how-to-track-you-using-the-dust-on-your-1821030620",
+            "title": "Facebook Knows How to Track You Using the Dust on Your Camera Lens",
+            "date": "1/11/2018"
+        }]
+    },
+    {
+        "date": "15/09/2015",
+        "title": "Facebook’s Like Buttons Will Soon Track Your Web Browsing to Target Ads",
+        "description": "Starting next month, the millions of Facebook “Like” and “Share” buttons that publishers have added to their pages and mobile apps will start funneling data on people’s Web browsing habits into the company’s ad targeting systems.",
+        "sources": [{
+            "name": "MIT Technology Review",
+            "url": "https://www.technologyreview.com/s/541351/facebooks-like-buttons-will-soon-track-your-web-browsing-to-target-ads/",
+            "title": "Facebook’s Like Buttons Will Soon Track Your Web Browsing to Target Ads",
+            "date": "15/09/2015"
+        }]
+    }
+]

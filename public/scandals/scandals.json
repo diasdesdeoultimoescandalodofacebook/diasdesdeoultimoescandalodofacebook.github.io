@@ -670,30 +670,43 @@
     },
     {
         "date": "18/04/2019",
-        "title": "Facebook Stored Millions of Instagram Users' Passwords in Plaintext",
-        "description": "Facebook late last month revealed that the social media company mistakenly stored passwords for \"hundreds of millions\" of Facebook users in plaintext, including \"tens of thousands\" passwords of its Instagram users as well.",
+        "title": "O Facebook Armazenou Milhões de Senhas de Usuários do Instagram em Texto Plano",
+        "description": "O Facebook no final do mês passado revelou que a empresa de mídia social armazenou erroneamente senhas para \"centenas de milhões\" de usuários do Facebook em texto simples, incluindo também senhas de \"dezenas de milhares\" de usuários do Instagram.",
         "sources": [{
-            "name": "The Hacker News",
-            "url": "https://thehackernews.com/2019/04/instagram-password-plaintext.html",
-            "title": "Facebook Stored Millions of Instagram Users' Passwords in Plaintext",
-            "date": "18/04/2019"
+                "name": "Gizmodo Brasil",
+                "url": "https://gizmodo.uol.com.br/facebook-senhas-instagram-sem-protecao/",
+                "title": "Facebook também guardou milhões de senhas do Instagram sem nenhum tipo de proteção",
+                "date": "19/04/2019"
+            },
+            {
+                "name": "The Hacker News",
+                "url": "https://thehackernews.com/2019/04/instagram-password-plaintext.html",
+                "title": "Facebook Stored Millions of Instagram Users' Passwords in Plaintext",
+                "date": "18/04/2019"
         }]
     },
     {
         "date": "18/04/2019",
-        "title": "\"Ooops, I accidentally shared your contact list\"",
-        "description": "Facebook says it 'unintentionally uploaded' 1.5 million people's email contacts without their consent",
+        "title": "\"Ooops, eu acidentalmente compartilhei a sua lista de contatos\"",
+        "description": "Facebook disse que fez 'upload involuntariamente' de 1,5 milhões de contatos de e-mail de pessoas sem o seu consentimento",
         "sources": [{
-            "name": "Business Insider",
-            "url": "https://www.businessinsider.fr/us/facebook-uploaded-1-5-million-users-email-contacts-without-permission-2019-4",
-            "title": "Facebook harvested the email contacts of 1.5 million users without their knowledge or consent when they opened their accounts",
-            "date": "18/04/2019"
-        }]
+                "name": "Business Insider",
+                "url": "https://www.businessinsider.fr/us/facebook-uploaded-1-5-million-users-email-contacts-without-permission-2019-4",
+                "title": "Facebook harvested the email contacts of 1.5 million users without their knowledge or consent when they opened their accounts",
+                "date": "18/04/2019"
+            },
+            {
+                "name": "Tilt UOL",
+                "url": "https://www.uol.com.br/tilt/noticias/redacao/2019/04/25/facebook-pode-estar-coletando-dados-do-seu-e-mail-descubra-como-evitar.htm",
+                "title": "Facebook coletou contatos de 1,5 mi de pessoas; veja se seu email foi alvo",
+                "date": "25/04/2019"
+            }
+        ]
     },
     {
         "date": "16/04/2019",
-        "title": "15 Months of Fresh Hell Inside Facebook",
-        "description": "Scandals. Backstabbing. Resignations. Record profits. Time Bombs. In early 2018, Mark Zuckerberg set out to fix Facebook. Here's how that turned out.",
+        "title": "15 Meses de Maré de Azar Dentro do Facebook",
+        "description": "Escândalos. Traição. Demissões. Recorde de lucros. Bombas-relógio. No início de 2018, Mark Zuckerberg começou a corrigir o Facebook. Aqui está como isso aconteceu.",
         "sources": [{
             "name": "Wired",
             "url": "https://www.wired.com/story/facebook-mark-zuckerberg-15-months-of-fresh-hell/",
@@ -703,19 +716,26 @@
     },
     {
         "date": "11/04/2019",
-        "title": "Mark Zuckerberg leveraged Facebook user data to fight rivals and help friends, leaked documents show",
-        "description": "Facebook’s leaders seriously discussed selling access to user data — and privacy was an afterthought.",
+        "title": "Documentos vazados mostram que Mark Zuckerberg aproveitou os dados dos usuários do Facebook para punir rivais e ajudar amigos",
+        "description": "Os líderes do Facebook discutiram seriamente a venda de acesso a dados de usuários - e a privacidade foi uma reflexão posterior.",
         "sources": [{
-            "name": "NBCNews",
-            "url": "https://www.nbcnews.com/tech/social-media/mark-zuckerberg-leveraged-facebook-user-data-fight-rivals-help-friends-n994706",
-            "title": "Mark Zuckerberg leveraged Facebook user data to fight rivals and help friends, leaked documents show ",
-            "date": "11/04/2019"
-        }]
+                "name": "NBCNews",
+                "url": "https://www.nbcnews.com/tech/social-media/mark-zuckerberg-leveraged-facebook-user-data-fight-rivals-help-friends-n994706",
+                "title": "Mark Zuckerberg leveraged Facebook user data to fight rivals and help friends, leaked documents show ",
+                "date": "11/04/2019"
+            },
+            {
+                "name": "Tecmundo",
+                "url": "https://www.tecmundo.com.br/seguranca/140475-zuckerberg-usava-dados-facebook-ajudar-parceiros-punir-rivais.htm",
+                "title": "Zuckerberg usava dados do Facebook para ajudar parceiros e punir rivais",
+                "date": "16/04/2019"
+            }
+        ]
     },
     {
         "date": "10/04/2019",
-        "title": "[FR] Condamné pour clauses abusives en France, Facebook modifie ses conditions d’utilisation",
-        "description": "Le tribunal de grande instance de Paris condamne Facebook à verser 30 000 euros à l’UFC-Que Choisir, en raison de 430 clauses d’utilisation jugées illicites. Le réseau social modifie ses CGU, à la demande de la DGCCRF et de la Commission européenne.",
+        "title": "Condenado por termos injustos na França, o Facebook muda seus termos de uso",
+        "description": "O tribunal distrital de Paris condena o Facebook a pagar 30 mil euros ao UFC-Que Choisir, devido a 430 cláusulas de uso consideradas ilegais. A rede social modifica o seu UGC, a pedido da DGCCRF e da Comissão Europeia.",
         "sources": [{
             "name": "L'Observateur",
             "url": "https://www.nouvelobs.com/societe/20190410.OBS11374/condamne-pour-clauses-abusives-en-france-facebook-modifie-ses-conditions-d-utilisation.html",
@@ -725,19 +745,26 @@
     },
     {
         "date": "3/04/2019",
-        "title": "Hundreds of millions of Facebook records exposed on public servers – report ",
-        "description": "Material discovered on Amazon cloud servers in latest example of Facebook letting third parties extract user data",
+        "title": "Centenas de milhões de registros do Facebook expostos em servidores públicos - relatório",
+        "description": "Material descoberto em servidores na nuvem da Amazon no último exemplo do Facebook, permitindo que terceiros extraiam dados do usuário",
         "sources": [{
-            "name": "The Guardian",
-            "url": "https://www.theguardian.com/technology/2019/apr/03/facebook-data-public-servers-amazon",
-            "title": "Hundreds of millions of Facebook records exposed on public servers – report ",
-            "date": "3/04/2019"
-        }]
+                "name": "The Guardian",
+                "url": "https://www.theguardian.com/technology/2019/apr/03/facebook-data-public-servers-amazon",
+                "title": "Hundreds of millions of Facebook records exposed on public servers – report ",
+                "date": "3/04/2019"
+            },
+            {
+                "name": "Gizmodo Brasil",
+                "url": "https://gizmodo.uol.com.br/facebook-dados-expostos-540-milhoes-usuarios/",
+                "title": "Milhões de registros do Facebook, como comentários e likes, ficaram expostos em bancos de dados sem segurança",
+                "date": "3/04/2019"
+            }
+        ]
     },
     {
         "date": "11/03/2019",
-        "title": "Facebook confirms it took down an anti-Facebook ads",
-        "description": "Facebook confirms it took down Elizabeth Warren's ads about Facebook, but is in the process of restoring them. FB spox: \"We removed the ads because they violated our policies against use of our corporate logo. In the interest of allowing robust debate, we are restoring the ads.\"",
+        "title": "Facebook confirma que derrubou anúncios anti-Facebook",
+        "description": "Facebook confirma que derrubou os anúncios de Elizabeth Warren sobre o Facebook, mas está em processo de restauração. FB spox:  \"Removemos os anúncios porque eles violavam nossas políticas contra o uso de nosso logotipo corporativo. No interesse de permitir um debate robusto, estamos restaurando os anúncios.\"",
         "sources": [{
             "name": "Twitter",
             "url": "https://nitter.net/RMac18/status/1105241915396517888",
@@ -747,130 +774,175 @@
     },
     {
         "date": "7/03/2019",
-        "title": "Facebook Messenger bug revealed who you had conversations with",
-        "description": "Imperva, a cybersecurity company, on Thursday detailed a flaw with Facebook Messenger that allowed potential attackers to learn who you were talking with on the chatting service. The security bug didn't show the content of the messages, but just knowing who you were in touch with has the potential to harm your privacy, said Ron Masas, the security researcher who discovered the vulnerability. ",
+        "title": "Bug do Facebook Messenger revelou com quem você conversou",
+        "description": "A Imperva, uma empresa de segurança cibernética, detalhou na quinta-feira uma falha no Facebook Messenger que permitiu que potenciais atacantes soubessem com quem você estava falando no serviço de bate-papo. O bug de segurança não mostrou o conteúdo das mensagens, mas apenas saber com quem você estava em contato tem o potencial de prejudicar sua privacidade, disse Ron Masas, o pesquisador de segurança que descobriu a vulnerabilidade.",
         "sources": [{
-            "name": "CNET",
-            "url": "https://www.cnet.com/news/facebook-messenger-bug-revealed-who-you-had-conversations-with/",
-            "title": "Facebook Messenger bug revealed who you had conversations with",
-            "date": "7/03/2019"
-        }]
+                "name": "CNET",
+                "url": "https://www.cnet.com/news/facebook-messenger-bug-revealed-who-you-had-conversations-with/",
+                "title": "Facebook Messenger bug revealed who you had conversations with",
+                "date": "7/03/2019"
+            },
+            {
+                "name": "Gizmodo Brasil",
+                "url": "https://gizmodo.uol.com.br/bug-facebook-messenger-conversas-expostas/",
+                "title": "Bug no Facebook Messenger expôs com quem os usuários estavam conversando",
+                "date": "9/03/2019"
+            }
+        ]
     },
     {
         "date": "22/02/2019",
-        "title": "'Outrageous abuse of privacy': New York orders inquiry into Facebook data use",
-        "description": "Order follows report that Facebook may access highly personal information including weight, blood pressure and ovulation status",
+        "title": "'Escandaloso abuso de privacidade': Nova York manda investigar o Facebook sobre coleta de dados",
+        "description": "A decisão enviada ao Departamento de Estado e ao Departamento de Serviços Financeiros de Nova York acontece após o jornal Wall Street Journal publicar que testes mostraram que o Facebook coleta informações de outros aplicativos do smartphone do usuário segundos após o login na rede social. O jornal reportou que diversos aplicativos compartilham dados sensíveis do usuário incluindo peso, pressão sanguínea e status de gravidez com o Facebook. A reportagem diz que a empresa pode até acessar dados mesmo quando o usuário não está logado no Facebook e não tenha uma conta na rede social.",
         "sources": [{
-            "name": "The New York Times ",
-            "url": "https://www.theguardian.com/technology/2019/feb/22/new-york-facebook-privacy-data-app-wall-street-journal-report",
-            "title": "'Outrageous abuse of privacy': New York orders inquiry into Facebook data use",
-            "date": "22/02/2019"
+                "name": "Terra",
+                "url": "https://www.terra.com.br/noticias/tecnologia/governador-de-ny-manda-investigar-acesso-do-facebook-a-dados-de-outros-aplicativos,5cd6f69a9b46af9d9f9ff85aa4a36facrmvrzjqh.html",
+                "title": "Governador de NY manda investigar acesso do Facebook a dados de outros aplicativos",
+                "date": "22/02/2019"
         }]
     },
     {
         "date": "24/01/2019",
-        "title": "Facebook pays teens to install VPN that spies on them",
-        "description": "Desperate for data on its competitors, Facebook has been secretly paying people to install a “Facebook Research” VPN that lets the company suck in all of a user’s phone and web activity, similar to Facebook’s Onavo Protect app that Apple banned in June and that was removed in August. ",
+        "title": "Facebook paga adolescentes para usarem app que vê tudo o que faziam em seus celulares",
+        "description": "O app requer permissões que permitiriam que a companhia possa ter acesso a praticamente todos os dados possíveis em dispositivos Android ou iOS, como mensagens, fotos particulares ou mesmo padrões de navegação.",
         "sources": [{
-                "name": "TechCrunch",
-                "url": "https://techcrunch.com/2019/01/30/apple-bans-facebook-vpn/",
-                "title": "Apple bans Facebook’s Research app that paid users for data",
+                "name": "Gizmodo Brasil",
+                "url": "https://gizmodo.uol.com.br/facebook-app-pesquisa-adolescentes-smartphones/",
+                "title": "Facebook paga adolescentes para usarem app que vê tudo o que faziam em seus celulares",
                 "date": "30/01/2019"
             },
             {
-                "name": "TechCrunch",
-                "url": "https://techcrunch.com/2019/01/29/facebook-project-atlas/",
-                "title": "Facebook pays teens to install VPN that spies on them",
-                "date": "29/01/2019"
+                "name": "Oficina da Net",
+                "url": "https://www.oficinadanet.com.br/facebook/24752-facebook-paga-adolescentes-para-instalar-a-vpn-que-os-espiona",
+                "title": "Facebook paga adolescentes para instalar a VPN que os espiona",
+                "date": "30/01/2019"
             }
         ]
     },
     {
         "date": "24/01/2019",
-        "title": "Facebook knowingly duped game-playing kids and their parents out of money",
-        "description": "Facebook orchestrated a multiyear effort that duped children and their parents out of money, in some cases hundreds or even thousands of dollars, and then often refused to give the money back [...]",
+        "title": "Facebook enganou crianças para que gastassem dinheiro em jogos na rede social",
+        "description": "O Facebook planejou um esquema de vários anos que enganou crianças e causou prejuizo financeiro aos seus pais, em alguns casos centenas ou mesmo milhares de dólares, e em muitas vezes se recusou a devolver o dinheiro [...]",
         "sources": [{
-                "name": "Reveal News",
-                "url": "https://www.revealnews.org/article/facebook-knowingly-duped-game-playing-kids-and-their-parents-out-of-money/",
-                "title": "Facebook knowingly duped game-playing kids and their parents out of money",
+                "name": "Game Vício",
+                "url": "https://www.gamevicio.com/noticias/2019/01/facebook-enganou-criancas-para-aumentar-lucros-em-games-diz-site/",
+                "title": "Facebook enganou crianças para aumentar lucros em games, diz site",
                 "date": "24/01/2019"
             },
             {
-                "name": "The Independent",
-                "url": "https://www.independent.co.uk/life-style/gadgets-and-tech/news/facebook-games-angry-birds-revenue-scam-friendly-fraud-a8745696.html",
-                "title": "Facebook tricked children into spending money on in-app games, court documents reveal ",
+                "name": "Pplware",
+                "url": "https://pplware.sapo.pt/redes_sociais/facebook-criancas-dinheiro-jogos/",
+                "title": "Facebook enganou crianças para que gastassem dinheiro em jogos na rede social",
                 "date": "26/01/2019"
+            },
+            {
+                "name": "Meio Bit",
+                "url": "https://meiobit.com/396984/facebook-cobrancas-games-criancas/",
+                "title": "Facebook se recusou a impedir compras em games feitas por crianças",
+                "date": "24/01/2019"
             }
         ]
     },
     {
         "date": "18/12/2018",
-        "title": "Facebook allowed Netflix, Microsoft, Spotify and Amazon access to private messages and personal information of users",
-        "description": "The 18 December 2018, the New York Times reveals that Facebook had given extended access to user data, on a much wider scope that it has previously disclosed.",
+        "title": "Facebook deu acesso a mensagens privadas e informações pessoais dos usuários para Netflix, Microsoft, Spotify e Amazon",
+        "description": "No dia 18 de dezembro de 2018, o New York Times revela que o Facebook deu acesso estendido aos dados dos usuários, em um escopo muito mais amplo que o divulgado anteriormente.",
         "sources": [{
-                "name": "The New York Times",
-                "url": "https://www.nytimes.com/2018/12/18/technology/facebook-privacy.html",
-                "title": "Facebook gives access to private messages to 3rd party partners ",
-                "date": "18/12/2018"
-            },
-            {
-                "name": "Libération",
-                "url": "https://www.liberation.fr/planete/2018/12/19/partage-de-donnees-facebook-et-ses-partenaires-particuliers_1698784",
-                "title": "Partage des données : Facebook et ses partenaires particuliers",
+                "name": "R7  Notícias",
+                "url": "https://noticias.r7.com/tecnologia-e-ciencia/facebook-permitiu-que-netflix-e-spotify-lessem-mensagens-privadas-19122018",
+                "title": "Facebook permitiu que Netflix e Spotify lessem mensagens privadas",
                 "date": "19/12/2018"
             },
             {
-                "name": "Usbek & Rica",
-                "url": "https://usbeketrica.com/article/facebook-donnees-personnelles-amazon-netflix",
-                "title": "Pour les partenaires de Facebook, vos données personnelles, c'est open bar",
+                "name": "Gizmodo Brasil",
+                "url": "https://gizmodo.uol.com.br/facebook-acesso-mensagens-privadas-spotify-netflix/",
+                "title": "Facebook deu acesso a mensagens privadas de usuários para Spotify e Netflix",
                 "date": "19/12/2018"
             },
             {
-                "name": "BFMTV",
-                "url": "https://www.bfmtv.com/tech/facebook-a-laisse-netflix-et-spotify-acceder-a-tous-vos-messages-prives-1591572.html",
-                "title": "Facebook a laissé Netflix et Spotify accéder à tous vos messages privés",
+                "name": "Tecnoblog",
+                "url": "https://tecnoblog.net/272051/facebook-dados-privados-spotify-netflix-amazon-microsoft/",
+                "title": "Facebook cedeu dados privados para Spotify, Netflix, Amazon e Microsoft",
                 "date": "19/12/2018"
             }
         ]
     },
     {
         "date": "14/12/2018",
-        "title": "Facebook Photo API bug exposes 6.8 millions of users' photos",
-        "description": "On the 14 December 2018, Facebook announces throught a blog post that they discovered a bug in their Photo API that allowed a broader access than usual for 12 days.",
+        "title": "Bug na API do Facebook expõe 6,8 milhões de fotos de usuários",
+        "description": "No dia 14 de dezembro de 2018, o Facebook anuncia através de uma postagem no blog que descobriu um bug em sua API de fotos que permitiu um acesso mais amplo do que o normal por 12 dias.",
         "sources": [{
-                "name": "Facebook original blog post",
+                "name": "Post original do blog do Facebook",
                 "url": "https://developers.facebook.com/blog/post/2018/12/14/notifying-our-developer-ecosystem-about-a-photo-api-bug/",
                 "title": "Notifying our Developer Ecosystem about a Photo API Bug ",
                 "date": "14/12/2018"
             },
             {
-                "name": "Le Monde",
-                "url": "https://www.lemonde.fr/pixels/article/2018/12/17/facebook-une-faille-de-securite-a-pu-exposer-les-photos-de-6-8-millions-d-utilisateurs_5398948_4408996.html",
-                "title": "Facebook : une faille de sécurité a pu exposer les photos de 6,8 millions d’utilisateurs",
-                "date": "17/12/2018"
+                "name": "TugaTech",
+                "url": "https://tugatech.com.pt/t27502-novo-bug-no-facebook-expoe-fotos-privadas-de-6-8-milhoes-de-utilizadores",
+                "title": "Novo bug no Facebook expõe fotos privadas de 6.8 milhões de utilizadores",
+                "date": "14/12/2018"
+            },
+            {
+                "name": "Bol Notícias",
+                "url": "https://www.bol.uol.com.br/noticias/2018/12/14/de-novo-bug-do-facebook-pode-ter-exposto-fotos-de-milhoes-de-usuarios.htm",
+                "title": "De novo? Bug do Facebook pode ter exposto fotos de milhões de usuários",
+                "date": "14/12/2018"
             }
         ]
     },
     {
         "date": "1/11/2018",
-        "title": "Facebook Knows How to Track You Using the Dust on Your Camera Lens",
-        "description": "In 2014, Facebook filed a patent application for a technique that employs smartphone data to figure out if two people might know each other. The author, an engineering manager at Facebook named Ben Chen, wrote that it was not merely possible to detect that two smartphones were in the same place at the same time, but that by comparing the accelerometer and gyroscope readings of each phone, the data could identify when people were facing each other or walking together. That way, Facebook could suggest you friend the person you were talking to at a bar last night, and not all the other people there that you chose not to talk to.",
+        "title": "Facebook poderia rastrear pessoas pela \"sujeira na câmera do celular\"",
+        "description": "Em 2014, o Facebook apresentou um pedido de patente para uma técnica que emprega dados de smartphones para descobrir se duas pessoas podem se conhecer. O autor, um gerente de engenharia do Facebook chamado Ben Chen, escreveu que não era apenas possível detectar que dois smartphones estavam no mesmo lugar ao mesmo tempo, mas que, comparando as leituras do acelerômetro e do giroscópio de cada telefone, os dados podiam identificar quando as pessoas estavam de frente um para o outro ou caminhando juntos. Dessa forma, o Facebook poderia sugerir que você fosse amigo da pessoa que você estava falando em um bar ontem à noite, e não todas as outras pessoas com quem escolheu não falar.",
         "sources": [{
-            "name": "Gizmodo",
-            "url": "https://gizmodo.com/facebook-knows-how-to-track-you-using-the-dust-on-your-1821030620",
-            "title": "Facebook Knows How to Track You Using the Dust on Your Camera Lens",
-            "date": "1/11/2018"
-        }]
+                "name": "Tecmundo",
+                "url": "https://www.tecmundo.com.br/redes-sociais/126066-facebook-rastrear-pessoas-sujeira-camera-celular.htm",
+                "title": "Facebook poderia rastrear pessoas pela \"sujeira na câmera do celular\"",
+                "date": "1/11/2018"
+            },
+            {
+                "name": "Gizmodo",
+                "url": "https://gizmodo.com/facebook-knows-how-to-track-you-using-the-dust-on-your-1821030620",
+                "title": "Facebook Knows How to Track You Using the Dust on Your Camera Lens",
+                "date": "1/11/2018"
+            }
+        ]
     },
     {
         "date": "15/09/2015",
-        "title": "Facebook’s Like Buttons Will Soon Track Your Web Browsing to Target Ads",
-        "description": "Starting next month, the millions of Facebook “Like” and “Share” buttons that publishers have added to their pages and mobile apps will start funneling data on people’s Web browsing habits into the company’s ad targeting systems.",
+        "title": "Botão de Like do Facebook Vai Em Breve Rastrear Sua Navegação Na Web Para Direcionamento de Anúncios",
+        "description": "A partir do próximo mês, os milhões de botões \"Curtir\" e \"Compartilhar\" do Facebook que os editores adicionaram às suas páginas e aplicativos móveis começarão a canalizar dados sobre os hábitos de navegação na Web das pessoas para os sistemas de direcionamento de anúncios da empresa.",
         "sources": [{
             "name": "MIT Technology Review",
             "url": "https://www.technologyreview.com/s/541351/facebooks-like-buttons-will-soon-track-your-web-browsing-to-target-ads/",
             "title": "Facebook’s Like Buttons Will Soon Track Your Web Browsing to Target Ads",
             "date": "15/09/2015"
         }]
+    },
+    {
+        "date": "29/06/2014",
+        "title": "Facebook Manipula Emoções de Usuários Em Experimento Secreto",
+        "description": "Um estudo detalhando como o Facebook manipulou secretamente o feed de notícias de aproximadamente 700 mil usuários com o objetivo de avaliar o \"contágio emocional\" desencadeou revolta na rede social.",
+        "sources": [
+            {
+                "name": "G1",
+                "url": "http://g1.globo.com/tecnologia/noticia/2014/06/em-experimento-secreto-facebook-manipula-emocoes-de-usuarios.html",
+                "title": "Em experimento secreto, Facebook manipula emoções de usuários",
+                "date": "29/06/2014"
+            },
+            {
+                "name": "Estadão",
+                "url": "https://link.estadao.com.br/noticias/geral,facebook-fez-teste-de-emocoes-com-700-mil-usuarios-sem-avisa-los,10000031033",
+                "title": "Facebook fez teste de emoções com 700 mil usuários sem avisá-los",
+                "date": "30/06/2014"
+            },
+            {
+                "name": "Techtudo",
+                "url": "https://www.techtudo.com.br/noticias/noticia/2014/07/saiba-como-foi-aplicada-manipulacao-de-emocoes-no-feed-do-facebook.html",
+                "title": "Saiba como foi aplicada a manipulação de emoções no feed do Facebook",
+                "date": "01/07/2014"
+            }
+        ]
     }
 ]

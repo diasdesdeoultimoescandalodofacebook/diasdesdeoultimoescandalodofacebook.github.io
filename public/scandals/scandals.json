@@ -582,38 +582,38 @@
     },
     {
         "date": "13/05/2019",
-        "title": "WhatsApp vulnerability allows to install spyware",
-        "description": "A vulnerability found in Facebook's owned messaging service WhatsApp, allowed a spyware to be installed allegedly linked to the NSO group. Note: the funny part here is that nothing in the release notes of the update mentionned the vulnerability when the dev team was aware of it.",
+        "title": "Vulnerabilidade no WhatsApp permite a instalação de spyware nos telefones dos usuários",
+        "description": "Foi dectada uma vulnerabilidade no WhatsApp pela qual hackers podiam instalar spywares nos smartphones dos indivíduos. A praga foi desenvolvida pela empresa israelense NSO Group e transmitida por usuários através de chamadas VoIP via WhatsApp no iOS e Android. \nNota: a parte engraçada aqui é que nada nas notas de release da atualização mencionou a vulnerabilidade quando a equipe de desenvolvimento estava ciente disso.",
         "sources": [{
-                "name": "Techcrunch",
-                "url": "https://techcrunch.com/2019/05/13/whatsapp-exploit-let-attackers-install-government-grade-spyware-on-phones/",
-                "title": "WhatsApp exploit let attackers install government-grade spyware on phones ",
-                "date": "13/05/2019"
-            },
-            {
-                "name": "The Guardian",
-                "url": "https://www.theguardian.com/technology/2019/may/13/whatsapp-urges-users-to-upgrade-after-discovering-spyware-vulnerability",
-                "title": "WhatsApp urges users to update app after discovering spyware vulnerability",
-                "date": "13/05/2019"
-            },
-            {
-                "name": "ArsTechnica",
-                "url": "https://arstechnica.com/information-technology/2019/05/whatsapp-vulnerability-exploited-to-infect-phones-with-israeli-spyware/",
-                "title": "WhatsApp vulnerability exploited to infect phones with Israeli spyware ",
+                "name": "Baboo",
+                "url": "https://www.baboo.com.br/seguranca/vulnerabilidade-no-whatsapp-permite-a-instalacao-de-spyware-nos-telefones-dos-usuarios/",
+                "title": "Vulnerabilidade no WhatsApp permite a instalação de spyware nos telefones dos usuários",
                 "date": "14/05/2019"
             },
             {
-                "name": "EFF",
-                "url": "https://www.eff.org/deeplinks/2019/05/what-you-need-know-about-latest-whatsapp-vulnerability",
-                "title": "What You Need to Know About the Latest WhatsApp Vulnerability",
+                "name": "Canaltech",
+                "url": "https://canaltech.com.br/apps/whatsapp-descoberta-vulnerabilidade-que-afeta-usuarios-de-android-e-ios-139139/",
+                "title": "WhatsApp | Descoberta vulnerabilidade que afeta usuários de Android e iOS",
+                "date": "14/05/2019"
+            },
+            {
+                "name": "G1",
+                "url": "https://g1.globo.com/economia/tecnologia/noticia/2019/05/14/whatsapp-detecta-vulnerabilidade-que-permite-o-acesso-de-hackers-a-celulares.ghtml",
+                "title": "WhatsApp pede que usuários atualizem app após descobrir falha de segurança",
+                "date": "14/05/2019"
+            },
+            {
+                "name": "Tecmundo",
+                "url": "https://www.tecmundo.com.br/software/141261-whatsapp-tem-vulnerabilidade-permite-invasao-hackers.htm",
+                "title": "Falha no WhatsApp deixa vulneráveis todos os seus 1,5 bilhão de usuários",
                 "date": "16/05/2019"
             }
         ]
     },
     {
         "date": "01/05/2019",
-        "title": "Facebook wants to scan encrypted person-to-person WhatsApp messages for content Facebook or repressive governments dislike",
-        "description": "Facebook plans to install an on-phone AI content moderation algorithm that would flag a post and prevent it from being sent if a user attempts to send a rules-violating post via encrypted WhatsApp message.",
+        "title": "Facebook quer rastrear mensagens criptografadas do WhatsApp de pessoa para pessoa em busca de conteúdo que o Facebook ou governos repressivos não gostem.",
+        "description": "Facebook planeja instalar um algoritmo de IA de moderação de conteúdo no telefone que sinalizaria uma publicação e impediria que ela fosse enviada se um usuário tentasse enviar uma publicação que viole regras por meio de uma mensagem whatsApp criptografada.",
         "sources": [{
                 "name": "Forbes",
                 "url": "https://www.forbes.com/sites/kalevleetaru/2019/05/05/facebooks-edge-ai-content-scanning-brings-nsa-style-surveillance-and-censorship-to-the-planet/",

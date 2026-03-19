@@ -1,10 +1,11 @@
-[{
+[
+    {
         "date": "21/04/2021",
         "title": "Facebook Ignored a Vulnerability that Leaked Millions of User Email Addresses",
         "description": "Facebook Email Search v1.0 exploits a front-end vulnerability in Facebook’s website. It automatically links user IDs to their associated email address, allowing a single hacker to secure about 5 million email addresses per day. Facebook says that it patched a nearly identical vulnerability earlier this year, though the problem clearly remains unfixed.",
         "sources": [{
             "name": "ArsTechnica",
-            "url": "https://arstechnica.com/gadgets/2021/04/tool-links-email-addresses-to-facebook-accounts-at-scale/",
+            "url": "https://arstechnica.com/gadgets/2021/04/tool-links-email-addresses-to12/07/2019-facebook-accounts-at-scale/",
             "title": "Brace yourselves. Facebook has a new mega-leak on its hands",
             "date": "21/04/2021"
         }]
@@ -571,8 +572,8 @@
     },
     {
         "date": "20/05/2019",
-        "title": "Thanks to Facebook, Your Cellphone Company Is Watching You More Closely Than Ever",
-        "description": "According to a confidential document the Intercept had access to, Facebook gives away information about your phone that is used by your mobile phone carrier. Facebook’s cellphone partnerships are particularly worrisome because of the extensive surveillance powers already enjoyed by carriers like AT&T and T-Mobile: Just as your internet service provider is capable of watching the data that bounces between your home and the wider world, telecommunications companies have a privileged vantage point from which they can glean a great deal of information about how, when, and where you’re using your phone. AT&T, for example, states plainly in its privacy policy that it collects and stores information “about the websites you visit and the mobile applications you use on our networks.” Paired with carriers’ calling and texting oversight, that accounts for just about everything you’d do on your smartphone.",
+        "title": "Graças ao Facebook, sua operadora de celular está te vigiando mais de perto do que nunca",
+        "description": "De acordo com um documento confidencial ao qual o The Intercept teve acesso, o Facebook divulga informações sobre o seu celular que são utilizadas pela sua operadora de telefonia móvel. As parcerias do Facebook com operadoras de celular são particularmente preocupantes devido aos amplos poderes de vigilância já detidos por operadoras como a AT&T e a T-Mobile: assim como seu provedor de internet é capaz de monitorar os dados que trafegam entre sua casa e o mundo, as empresas de telecomunicações têm uma posição privilegiada a partir da qual podem coletar uma grande quantidade de informações sobre como, quando e onde você está usando seu celular. A AT&T, por exemplo, afirma claramente em sua política de privacidade que coleta e armazena informações “sobre os sites que você visita e os aplicativos móveis que você usa em nossas redes”. Somado ao monitoramento de chamadas e mensagens de texto pelas operadoras, isso abrange praticamente tudo o que você faz no seu smartphone.",
         "sources": [{
             "name": "The Intercept",
             "url": "https://theintercept.com/2019/05/20/facebook-data-phone-carriers-ads-credit-score/",
